@@ -35,8 +35,8 @@ services:
       XTREAM_BASE_URL: "http://premiumeclipse2.xyz"
       ##### UNSAFE AUTH TODO ADD REAL AUTH
       #will be used for m3u and xtream auth poxy
-      USER: windza
-      PASSWORD: windza
+      USER: SimonH170724
+      PASSWORD: beWDwym
       # ---- Additional debugging options ----
       #DEBUG_LOGGING: true
       # Save the IPTV Provider responses to this location
