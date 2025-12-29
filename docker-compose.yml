@@ -32,7 +32,7 @@ services:
       ## Xtream-code proxy configuration
       XTREAM_USER: SimonH170724
       XTREAM_PASSWORD: beWDwym
-      XTREAM_BASE_URL: "http://premiumeclipse2.xyz/get.php?username=SimonH170724&password=beWDwym&type=m3u_plus&output=ts"
+      XTREAM_BASE_URL: http://premiumeclipse2.xyz/get.php?username=SimonH170724&password=beWDwym&type=m3u_plus&output=ts
       ##### UNSAFE AUTH TODO ADD REAL AUTH
       #will be used for m3u and xtream auth poxy
       USER: windza
