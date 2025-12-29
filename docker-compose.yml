@@ -27,7 +27,7 @@ services:
       # Port to expose the IPTVs endpoints
       PORT: 8080
       # Hostname or IP to expose the IPTVs endpoints (for machine not for docker)
-      HOSTNAME: http://p01--iptv-proxy--4mw9zxvhkfnz.code.run
+      HOSTNAME: https://p01--iptv-proxy--4mw9zxvhkfnz.code.run
       GIN_MODE: release
       ## Xtream-code proxy configuration
       XTREAM_USER: SimonH170724
