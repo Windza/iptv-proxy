@@ -27,7 +27,7 @@ services:
       # Port to expose the IPTVs endpoints
       PORT: 8080
       # Hostname or IP to expose the IPTVs endpoints (for machine not for docker)
-      HOSTNAME: localhost
+      HOSTNAME: http://p01--iptv-proxy--4mw9zxvhkfnz.code.run
       GIN_MODE: release
       ## Xtream-code proxy configuration
       XTREAM_USER: SimonH170724
@@ -35,8 +35,8 @@ services:
       XTREAM_BASE_URL: "http://premiumeclipse2.xyz"
       ##### UNSAFE AUTH TODO ADD REAL AUTH
       #will be used for m3u and xtream auth poxy
-      USER: SimonH170724
-      PASSWORD: beWDwym
+      USER: windza
+      PASSWORD: windza
       # ---- Additional debugging options ----
       #DEBUG_LOGGING: true
       # Save the IPTV Provider responses to this location
